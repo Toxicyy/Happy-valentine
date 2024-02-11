@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Carta de San Valentín</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+   
+
+<div class="valentines-day">
+  <div class="envelope"></div>
+  <div class="heart"></div>
+  <div class="text">HAPPY <br>VALENTINE'S <br>DAY!</div>
+  <div class="front"></div>
+</div>
+
+<div id="card">
+  <div class="side one"></div>
+  <div class="side two">
+    <h2>Dear Diana</h2>
+    <p>My beautiful and beloved Dianochka</p>
+    <p>I congratulate you on Valentine's Day, and I want to wish you more awesomeness and beauty, you are a very sweet and beautiful girl</p>
+    <p>And I also wish you to start learning html & css & JavaScript, so that you don’t just look at this text touchingly, but understand that I screwed it up for a long time</p>
+  </div>
+</div>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+<script src="js/script.js"></script>
+
+</body>
+</html>
